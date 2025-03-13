@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class operaciones {
     public static int sumar(int a, int b) {
         return a + b;
